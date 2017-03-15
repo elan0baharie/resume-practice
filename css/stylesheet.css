@@ -1,14 +1,29 @@
 .contact{
-  
+  font-size: 30px;
+  font-family: sans-serif;
+  text-align: center;
 
 }
 
 .education{
+  font-style: italic;
+  color: blue;
 
 }
 .experience{
+  font-style: bold;
+  color: yellow;
+  font-family: impact;
 
 }
 .skills{
+  font-style: normal;
+  color: pink;
+  font-family: fantasy;
 
+}
+.subtitle{
+  font-family: serif;
+  color: purple;
+  font-size: 50px;
 }
